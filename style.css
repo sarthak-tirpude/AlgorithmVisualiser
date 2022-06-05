@@ -1,0 +1,22 @@
+body{
+    margin: 30px;
+    align-items: center;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.card{
+    margin-top: 30px;
+    margin-left: 270px;
+}
+#contents{
+    display: inline-flex;
+    /* justify-content: space-around; */
+}
+figure{
+    margin-left: 10px;
+}
