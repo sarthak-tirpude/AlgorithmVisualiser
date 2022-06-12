@@ -1,13 +1,14 @@
 # AlgorithmVisualiser
 Visualiser Tool for Standard Algorithms:
-
-<img width="1440" alt="Screenshot 2022-06-05 at 3 40 29 PM" src="https://user-images.githubusercontent.com/76950603/172045619-76a131a8-eb3a-49b0-973c-3e297252f0f4.png">
-
 This Project started out as two seperate projects which are:
 1. N Queens Problem Visualiser. Link: https://github.com/sarthak-tirpude/N-Queens-Visualizer .
 2. Shortest Path Visualiser. Link: https://github.com/sarthak-tirpude/ShortestPathVisualiser .
 but I decided to merge these two into a single project.
 I'm currently working on more such standard algorithm solution visualiser.
+
+<img width="1440" alt="Screenshot 2022-06-05 at 3 40 29 PM" src="https://user-images.githubusercontent.com/76950603/172045619-76a131a8-eb3a-49b0-973c-3e297252f0f4.png">
+
+
 
 <img width="749" alt="Screenshot 2022-06-12 at 9 37 33 PM" src="https://user-images.githubusercontent.com/76950603/173242416-61a7c4e9-712b-4357-acb1-08245822da73.png">
 
